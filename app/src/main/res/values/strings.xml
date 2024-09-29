@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Multi</string>
+    <string name="task1">Start task 1</string>
+    <string name="task2">Start task 2</string>
+    <string name="start_task">Start Task</string>
+    <string name="status">Status</string>
+    <string name="hidden_text">Now you see me!</string>
+    <string name="task_completed">Task Completed</string>
+    <string name="compressing">Compresssing %d %%</string>
+    <string name="template">Deleted code is debugged code</string>
+    <string name="let_s_go">Let\'s Go</string>
+</resources>
